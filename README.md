@@ -1,3 +1,3 @@
-# simple_tic_tac_toe_using_Kotlin
+# Simple_Tic_Tac_Toe_using_Kotlin
 [Project link](https://hyperskill.org/projects/123)
 <br>[Me on Jetbrains Academy](https://hyperskill.org/profile/245202926)
